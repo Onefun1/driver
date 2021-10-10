@@ -1,0 +1,24 @@
+{
+    "name": "smartyads/driver",
+    "description": "Driver Test",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Smartyads\\Driver\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maksym Maksymenko",
+            "email": "m.maksymenko@smartyads.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Driver\\": "src"
+        }
+    }
+}
