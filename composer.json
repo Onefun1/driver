@@ -1,11 +1,11 @@
 {
-    "name": "smartyads/driver",
+    "name": "maksymmma/driver",
     "description": "Driver Test",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Smartyads\\Driver\\": "src/"
+            "Maksymmma\\Driver\\": "src/"
         }
     },
     "authors": [
